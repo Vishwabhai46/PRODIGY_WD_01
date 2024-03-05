@@ -1,0 +1,87 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+.collapse li a{
+    text-transform: capitalize;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif    ;
+    letter-spacing: .5px;
+    align-items: center;
+    margin: 5px;
+    
+    
+}
+body{
+    min-height: 100vh;
+    min-width: 100vm;
+    overflow-x: hidden;
+}
+.collapse{
+    justify-content: flex-end;
+    
+}
+.navbar{
+    background-color: antiquewhite;
+}
+.navbar-brand{
+    color: brown;
+    text-transform: capitalize;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: .5px;
+}
+
+img{
+    width: 500px;
+    height: 700px;
+}
+#home .display-6{
+    text-align: justify;
+    background-color:antiquewhite;
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-indent: 50px;
+    margin-top: 25px;
+    
+    
+}
+#home .h1{
+    color:red;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-top: 30px;
+}
+#home span{
+    color:blue;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#home .h2{
+    color: black;
+    text-transform: capitalize;
+    margin-left: 40px;
+    margin-top: 30px;
+    
+}
+#home .h3{
+    color:darkmagenta chocolate;
+    text-transform: capitalize;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.btn{
+    text-transform: capitalize;
+    letter-spacing: .3px;
+    padding: 5px;
+    margin: 15px;
+}
+
+
+
+
+
+
+
+
